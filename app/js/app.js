@@ -5,7 +5,7 @@
 angular.module('myApp', [
   'ngRoute',
   'myApp.filters',
-  'myApp.services',
+  'F1FeederApp.services',
   'myApp.directives',
   'F1FeederApp.controllers'
 ]).
